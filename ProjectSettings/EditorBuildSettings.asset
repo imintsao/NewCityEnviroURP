@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Karting/Scenes/IntroMenu.unity
+    guid: d29260d8d84c94bd7ac95807b3da99d4
+  - enabled: 0
+    path: Assets/Karting/Scenes/MainScene.unity
+    guid: 92786e23da2af4a4f8803aaf44c47121
+  - enabled: 0
+    path: Assets/Karting/Scenes/LoseScene.unity
+    guid: 9c449e01147824b419cda406398fb2e7
+  - enabled: 0
+    path: Assets/Karting/Scenes/WinScene.unity
+    guid: d6801f2e59f75ee4b919cf5da4e48e3b
+  - enabled: 1
+    path: Assets/FolderImin/City_Imin.unity
+    guid: 51c55f098207241019f76f6edc3317fd
+  - enabled: 0
+    path: Assets/Karting/Scenes/GameplayGyms/PhysicsPlayground.unity
+    guid: 7559b0c7ad9b04f409f7ca0694bf4ebb
+  - enabled: 1
+    path: Assets/PakistanBBGame/Scenes/Main.unity
+    guid: f88edd34c5b199d4694683a5c3d48849
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: c99c66c3cfc5149eaaec83f6d7acf5fe,
+      type: 2}
